@@ -1,0 +1,8 @@
+.DS_Store
+*.tmp
+.venv/
+__pycache__/
+node_modules/
+release/
+*.zip
+.env.local
